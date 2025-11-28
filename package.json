@@ -1,0 +1,23 @@
+{
+  "name": "react30dayschallenge",
+  "version": "1.0.0",
+  "description": "\"# React 30 Days Challenge\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalgithub677/React30DayChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalgithub677/React30DayChallenge/issues"
+  },
+  "homepage": "https://github.com/komalgithub677/React30DayChallenge#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
